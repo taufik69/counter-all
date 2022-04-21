@@ -1,0 +1,12 @@
+.counter_box{
+    display: flex;
+
+}
+ h1{
+    text-align: center;
+    margin: 50px;
+    font-size: 50px;
+    font-weight: 800;
+    color: brown;
+   
+}
